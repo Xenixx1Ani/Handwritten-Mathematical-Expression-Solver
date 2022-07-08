@@ -1,0 +1,9 @@
+The following external sources were used to understand the basic ML algorithms and syntax to be used while coding:-
+
+1. 3Blue1Brown (Channel link:- https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
+
+2. Neural Networks and Deep Learning (A free online book by Michael Nielsen. Link :- http://neuralnetworksanddeeplearning.com/ )
+
+3. PyTorch documentation (link:- https://pytorch.org/docs/stable/index.html )
+
+4. AIMLC lectures (Channel link:- https://www.youtube.com/channel/UCYZexisW1MxuVkPyiybQoxg)

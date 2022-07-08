@@ -1,0 +1,12 @@
+Libraries used:
+torch
+pandas
+numpy
+PIL
+random
+
+Note: Keep the data folder in a folder named SoML-50 in the same directory as the train.py file. 
+So, the path to images will look something like "./SoML-50/data/x.jpg" 
+and the path to the annotations will be something like "./SoML-50/annotations.csv" 
+
+Note2: the inference files will ask for the location/path to the directory where test images are stored as a seprate input
